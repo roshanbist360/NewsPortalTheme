@@ -44,14 +44,12 @@ body{
 /*========================Above Navbar Section1 Started==================
  	  ----------------------------------------------------------------------*/
       .topLogo{
-         border: 0px solid blue;
          padding-top: 20px;
       }
       
       .logo{
          width: 100%;
           height: 100%;
-          border: 0px solid red;
       }
       
       .logo img{
@@ -65,7 +63,6 @@ body{
           height: 100%;
           margin-left: 15px;
           position: relative;
-          border: 0px solid blue;
       }
       
       .dateLogoWrapper p span{
@@ -81,7 +78,6 @@ body{
           width: 100%;
           height: 100%;
           margin-left: 15%;
-          border: 0px solid red;
       }
       
       .topAdGif img{
@@ -89,7 +85,6 @@ body{
           height: 100%;
           padding-top: 0px;
           padding-left: 20px;
-          border: 0px solid rgb(92, 35, 224);
       }
       
       /*========================Navbar Section2 Started==================
@@ -100,7 +95,6 @@ body{
 	background: var(--primary-color);
 	margin-top: 10px;
 	z-index: 9;
-	position: sticky;
 	cursor: pointer;
 }
 
